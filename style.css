@@ -1,0 +1,21 @@
+.hero-section-content{
+    max-width: 445px;
+}
+
+.hero-section{
+    background-image: url(../../assets/home/image-homepage-hero.jpg);
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+
+    padding-top: 250px;
+
+}
+  
+
+.about-me_picture{
+    max-width: 540px;
+    max-height: 600px;
+    margin-top: 30px;
+}
+
